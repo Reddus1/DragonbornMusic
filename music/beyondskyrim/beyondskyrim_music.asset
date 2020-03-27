@@ -1,0 +1,306 @@
+
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "B01_Maker_of_Worlds.ogg"
+	volume = 0.65
+}
+
+# General Peace:
+music = {
+	name = "general_peace_1"
+	file = "B02_Heartland's_Sigh.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_2"
+	file = "B03_Fated_Lands.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_3"
+	file = "B04_Bloodlines.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_4"
+	file = "B05_Kynareth's_Wish.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_5"
+	file = "B06_Lost_Glory.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_6"
+	file = "B07_Ode_to_a_Dynasty.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_7"
+	file = "B09_These_Verdant_Fields.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_8"
+	file = "B12_Shapeless.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_9"
+	file = "B13_Wilder_Hearts.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_10"
+	file = "B16_Nox_Atra.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_11"
+	file = "B17_Reverence.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_12"
+	file = "B18_Dignity.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_13"
+	file = "B19_Widow's_Lament.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_14"
+	file = "B20_The_Concordat_Effect.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_15"
+	file = "B21_One_More_Day.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_16"
+	file = "B23_Apparitions.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_17"
+	file = "B24_All_That_Remains.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_18"
+	file = "B25_Home.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_19"
+	file = "B26_Familiar_Faces.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_20"
+	file = "B39_Stories_from_the_Hearth.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_21"
+	file = "B40_The_Empty_Chair.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_22"
+	file = "B41_Honour_Amongst_Patrons.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_23"
+	file = "B42_Drinks_for_Dogs.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_24"
+	file = "B43_The_Storm_Will_Carry_Us_Home.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_25"
+	file = "B44_Fades_Away.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_26"
+	file = "B45_Bless_Me,_Oh_Fallen_One.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_27"
+	file = "B46_Melvin_of_Skingrad.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_28"
+	file = "B47_Hero_of_a_Song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_29"
+	file = "B48_Everyone's_Throne.ogg"
+	volume = 0.65
+}
+
+# General war:
+music = {
+	name = "general_war_1"
+	file = "B08_Of_Storms_and_Half-Light.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_2"
+	file = "B10_Lorkhan's_Footsteps.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_3"
+	file = "B11_Moon_and_Scars.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_4"
+	file = "B14_So_Blind_and_in_Terror.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_5"
+	file = "B15_The_Sleeping_Sky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_6"
+	file = "B22_Watchman's_Legacy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_7"
+	file = "B27_Last_of_the_Guard.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_8"
+	file = "B28_Arcana_Magicae.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_9"
+	file = "B29_Foreign_Foe.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_10"
+	file = "B30_Northern_Cry.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_11"
+	file = "B31_The_Brigands_of_Blackwood.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_12"
+	file = "B32_Mortal_Wound.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_13"
+	file = "B33_Blood_Frenzy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_14"
+	file = "B34_Hold_Fast.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_15"
+	file = "B35_To_Fell_an_Ogre.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_16"
+	file = "B36_Arch_Henchman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_17"
+	file = "B37_Master_of_Fate.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_18"
+	file = "B38_By_Death_or_Dream.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_19"
+	file = "B49_A_Wet_Grave.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_20"
+	file = "B50_Moving_Earth.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_21"
+	file = "B51_Signs_of_Life.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_22"
+	file = "B52_The_Vile_and_the_Infamous.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_23"
+	file = "B53_War_Machine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_24"
+	file = "B54_Barrels,_Blood_and_Bone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_25"
+	file = "B55_The_Toll_of_Fate.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_26"
+	file = "B56_Diaspora_Nenalata.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_27"
+	file = "B57_They_Left_Me_in_Here.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_28"
+	file = "B58_Dark_Places.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_29"
+	file = "B59_Unwelcome_Guest.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_30"
+	file = "B60_Creeps_and_Critters.ogg"
+	volume = 0.65
+}
