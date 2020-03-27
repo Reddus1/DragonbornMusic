@@ -1,0 +1,291 @@
+
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "01_Dragonborn.ogg"
+	volume = 0.65
+}
+
+# General Peace:
+music = {
+	name = "general_peace_1"
+	file = "02_Awake.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_2"
+	file = "03_From_Past_to_Present.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_3"
+	file = "04_Unbroken_Road.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_4"
+	file = "05_Ancient_Stones.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_5"
+	file = "06_The_City_Gates.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_6"
+	file = "07_Silent_Footsteps.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_7"
+	file = "08_Dragonsreach.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_8"
+	file = "10_Under_an_Ancient_Sun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_9"
+	file = "12_Masser.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_10"
+	file = "13_Distant_Horizons.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_11"
+	file = "14_Dawn.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_12"
+	file = "15_The_Jerall_Mountains.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_13"
+	file = "17_Secunda.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_14"
+	file = "18_Imperial_Throne.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_15"
+	file = "19_Frostfall.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_16"
+	file = "21_Into_Darkness.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_17"
+	file = "22_Kyne's_Peace.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_18"
+	file = "23_Unbound.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_19"
+	file = "24_Far_Horizons.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_20"
+	file = "25_A_Winter's_Tale.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_21"
+	file = "26_The_Bannered_Mare.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_22"
+	file = "27_The_Streets_of_Whiterun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_23"
+	file = "29_The_White_River.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_24"
+	file = "33_Tundra.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_25"
+	file = "34_Journey's_End.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_26"
+	file = "37_Out_of_the_Cold.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_27"
+	file = "41_Aurora.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_28"
+	file = "44_Seven_Thousand_Steps.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_29"
+	file = "45_Solitude.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_30"
+	file = "47_The_Gathering_Storm.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_31"
+	file = "48_Sky_Above,_Voice_Within.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_32"
+	file = "52_Wind_Guide_You.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_33"
+	file = "53_Skyrim Atmospheres.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_34"
+	file = "54_Age_of_Agression.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_35"
+	file = "55_Age_of_Oppression.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_36"
+	file = "56_Ragnar_The_Red.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_37"
+	file = "57_Tale_of_the_Tonques.ogg"
+	volume = 0.65
+}
+
+# General war:
+music = {
+	name = "general_war_1"
+	file = "09_Tooth_and_Claws.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_2"
+	file = "11_Death_or_Sovngarde.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_3"
+	file = "16_Steel_on_Steel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_4"
+	file = "20_Night_without_Stars.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_5"
+	file = "28_One_They_Fear.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_6"
+	file = "30_Silence_Unbroken.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_7"
+	file = "31_Standing_Stones.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_8"
+	file = "32_Beneath_the_Ice.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_9"
+	file = "35_Before_The_Storm.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_10"
+	file = "36_A_Chance_Meeting.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_11"
+	file = "38_Around_the_Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_12"
+	file = "39_Shadows_and_Echoes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_13"
+	file = "40_Caught_off_Guard.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_14"
+	file = "42_Blood_and_Steel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_15"
+	file = "43_Towers_and_Shadows.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_16"
+	file = "46_Watch_the_Skies.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_17"
+	file = "49_Death_in_the_Darkness.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_18"
+	file = "50_Shattered_Shields.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_19"
+	file = "51_Sovngarde.ogg"
+	volume = 0.65
+}
